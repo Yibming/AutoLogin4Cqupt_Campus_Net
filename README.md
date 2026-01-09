@@ -1,4 +1,4 @@
-# Autologin4campus_cqupt_net
+# AutoLogin4Cqupt_Campus_Net
 This project logs into the CQUPT campus network by invoking the Google Chrome driver.
 这个项目通过调用google chrome driver登陆重庆邮电大学校园网
 
