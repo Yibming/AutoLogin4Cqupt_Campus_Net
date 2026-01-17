@@ -10,8 +10,8 @@ from selenium.webdriver.common.keys import Keys
 CHECK_INTERVAL = 30* 60  # 每次check时间30分钟
 LOGIN_URL = "http://192.168.200.2"  #校园网登陆页面
 
-USERNAME = "12345678"   # 请替换为你的用户名
-PASSWORD = "abcd"       # 请替换为你的密码
+USERNAME = "abcd"   # 请替换为你的用户名
+PASSWORD = "12345678"       # 请替换为你的密码
 
 CARRIERS = {
     "cmcc": "@cmcc",      # 移动

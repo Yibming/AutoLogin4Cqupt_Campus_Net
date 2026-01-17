@@ -44,3 +44,8 @@ msedgedriver*
 config.py
 .env
 *.secret
+
+# ======================
+# Test Code
+# ======================
+testcode/
